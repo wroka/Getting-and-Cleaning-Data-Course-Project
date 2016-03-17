@@ -1,8 +1,7 @@
----
-title: "CodeBook for TidyData - Getting and Cleaning Data Course Project"
-author: "Bill Roka"
-date: "March 16, 2016"
----
+# "CodeBook for TidyData - Getting and Cleaning Data Course Project"
+
+author: Bill Roka  
+date: March 16, 2016
 
 ## TidyData Dataset Statistics
 
