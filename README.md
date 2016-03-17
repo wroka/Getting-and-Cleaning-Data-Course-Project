@@ -41,7 +41,7 @@ To accomplish this, I took the following steps:
 6. Continued renaming process by renaming features of columns with descriptive names.
     + Abbreviations in "features" names were substituted with more readible expressions ("Gyroscope" for "Gyro", for example).
    
-7. Finally, the tidy dataset is created by grouping the file by subject and activity, summarizing by taking the mean of each subject/activity pair, 
+7. Finally, the tidy dataset was created by grouping the file by subject and activity, summarizing by taking the mean of each subject/activity pair, 
     and ordering the file by subject and activity in ascending order.
    
 The **run_analysis.R** script performs all of these functions and writes the file **"tidydata.txt"** when complete.
