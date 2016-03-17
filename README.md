@@ -1,7 +1,7 @@
 # Getting and Cleaning Data - Course Project (TidyData)
 
-author: "Bill Roka"  
-date: "March 16, 2016"
+author: Bill Roka    
+date: March 16, 2016
 
 
 # Tidy Dataset ("tidydata.txt") from Human Activity Recognition Using Smartphones Dataset
