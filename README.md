@@ -1,11 +1,8 @@
-# Getting-and-Cleaning-Data-Course-Project
-Getting and Cleaning Data - Course Project (TidyData)
+# Getting and Cleaning Data - Course Project (TidyData)
 
 ---
-title: "Getting and Cleaning Data - ReadMe for Course Assignment"
-author: "Bill Roka"
-date: "March 16, 2016"
-output: word_document
+*author: "Bill Roka"*
+*date: "March 16, 2016"*
 ---
 
 # Tidy Dataset ("tidydata.txt") from Human Activity Recognition Using Smartphones Dataset
