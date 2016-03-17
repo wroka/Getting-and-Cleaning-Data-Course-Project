@@ -55,7 +55,8 @@ colnames(Temp_Data) <- Headers
 ### in the 'features_info.txt' file from UCI HAR DATASET.
 
 ### Note: regular expressions employed. 
-### "\(" is a regular expression, so an additional backslash "\\(" is employed to read "std(|mean("  
+### An additional backslash "\\(" is employed to read "std(|mean(". 
+### The inner backslash escapes the "(", the outer escapes the inner "\". 
 std_mean_names <- Featurenames_temp$V2[grep("std\\(|mean\\(", Featurenames_temp$V2)] 
 ####### std_mean_names <- Featurenames_temp$V2[c(1:6,41:46,81:86,121:126,161:166,201:202,214:215,227:228,240:241,253:254,266:271,345:350,424:429,503:504,516:517,529:530,542:543)]
 
