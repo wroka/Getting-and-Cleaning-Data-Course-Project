@@ -11,7 +11,7 @@ Variables: 68
 
 Variables defined below:
 
-### Definitions for TidyData Subject and Activity Variables
+### Definitions of TidyData Subject and Activity Variables
 
 * __subject__  -- Identifying Numbers 1 to 30, based upon the 30 subjects of the original experiment **(unit type integers)**.  
 
@@ -23,7 +23,7 @@ Variables defined below:
     + STANDING
     + LAYING
 
-### Definitions for Features Variables: Averages of Experimental Observations, grouped by Subject and Activity
+### Definitions of Features Variables: Averages of Experimental Observations, grouped by Subject and Activity
 
 Note: Abbreviations in the original fields (contained in the "features.txt" file downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>) have been modified to 
 create the new, more descriptive column headers found in the final "TidyData.txt" file.
