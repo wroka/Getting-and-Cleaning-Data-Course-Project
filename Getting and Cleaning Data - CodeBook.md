@@ -47,6 +47,7 @@ The following description substitutions were employed:
 
 
 #### Body Signal Based Observations:
+***
 
 ##### Frequency-Domain Based Observations:
 
@@ -106,6 +107,7 @@ The following description substitutions were employed:
 
 
 #### Time-Domain Based Observations:  
+***
 
 
 ##### Accelerometer Readings by Mean
@@ -174,6 +176,7 @@ The following description substitutions were employed:
 
 
 #### Gravity Signal Based Observations:  
+***
 
 
 ##### Accelerometer Readings by Mean
