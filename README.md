@@ -1,6 +1,6 @@
 # Getting and Cleaning Data - Course Project (TidyData)
 
-author: "Bill Roka"
+author: "Bill Roka"  
 date: "March 16, 2016"
 
 
