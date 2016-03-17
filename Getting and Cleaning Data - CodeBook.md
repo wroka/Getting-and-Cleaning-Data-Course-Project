@@ -24,7 +24,7 @@ Variables defined below:
     + STANDING
     + LAYING
 
-## Averages of Experimental Observations Variables (or "Features"), grouped by Subject and Activity  (unit type numeric (dbl))
+## Averages of Experimental Observations Variables (or "Features"), grouped by Subject and Activity
 
 Note: Abbreviations in the original fields (contained in the "features.txt" file downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>) have been modified to 
 create the new, more descriptive column headers found in the final "TidyData.txt" file.
