@@ -36,7 +36,7 @@ To accomplish this, I took the following steps:
     + Features were read in from the "features.txt" file.  
    
 5. Restricted the file to Mean and Standard Deviation measurements only.
-    + This was performed by selecting the features columns with "std()" and "mean()" in the name, then subsetting the data by these features.
+    + This was performed by selecting the features columns with "std()" and "mean()" in the name, then subsetting the data by these features. NOTE: "meanfreq" columns were not included, as I interpreted them as a different datapoint.
 
 6. Continued renaming process by renaming features of columns with descriptive names.
     + Abbreviations in "features" names were substituted with more readible expressions ("Gyroscope" for "Gyro", for example).
