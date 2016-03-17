@@ -25,7 +25,7 @@ Variables defined below:
 
 ### Definitions of Features Variables: Averages of Experimental Observations, grouped by Subject and Activity
 
-66 Total Variables. Definitions grouped by Body Signal Based Observations and Gravity Based Observations.  
+66 Total Variables. Definitions arranged by Body Signal Based Observations and Gravity Based Observations.  
 Body Signal Observations are further subdivided by Frequency-Domain and Time-Domain.
 
 Note: Abbreviations in the original fields (contained in the "features.txt" file downloaded from <https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip>) have been modified to 
